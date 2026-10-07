@@ -28,7 +28,7 @@ public class Demo {
             Page page = context.newPage();
 
             try {
-                page.navigate("https://testingexamples.github.io");
+                page.navigate("https://testingexamples.github.io/en-001/practice/");
 
                 // Playwright locators auto-wait and retry; no explicit waits are needed.
 
